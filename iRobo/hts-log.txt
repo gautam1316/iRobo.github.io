@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 07 Jan 2021 11:56:32 at https://zizone.netlify.app/index-demo-3.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://zizone.netlify.app/index-demo-3.html -O1 "C:\Users\umang\Desktop\Amu" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:57:11	Error: 	"Not Found" (404) at link https://zizone.netlify.app/index-2.html (from https://zizone.netlify.app/index-demo-3.html)
+11:57:25	Error: 	"Not Found" (404) at link https://zizone.netlify.app/img/core-img/shape1.png (from https://zizone.netlify.app/css/style.css)
+11:57:25	Error: 	"Not Found" (404) at link https://zizone.netlify.app/img/bg-img/demo4-bg.png (from https://zizone.netlify.app/css/style.css)
+11:57:25	Error: 	"Not Found" (404) at link https://zizone.netlify.app/img/bg-img/demo5-bg.png (from https://zizone.netlify.app/css/style.css)
+11:57:25	Error: 	"Not Found" (404) at link https://zizone.netlify.app/img/bg-img/demo6-bg.png (from https://zizone.netlify.app/css/style.css)
+11:57:25	Error: 	"Not Found" (404) at link https://zizone.netlify.app/img/core-img/hero-bg.png (from https://zizone.netlify.app/css/style.css)
+11:57:25	Error: 	"Not Found" (404) at link https://zizone.netlify.app/img/core-img/robot-1.png (from https://zizone.netlify.app/css/style.css)
+11:57:26	Error: 	"Not Found" (404) at link https://zizone.netlify.app/img/svg/head-bg-1.svg (from https://zizone.netlify.app/css/style.css)
+11:57:26	Error: 	"Not Found" (404) at link https://zizone.netlify.app/img/bg-img/header-bg1.png (from https://zizone.netlify.app/css/style.css)
+11:57:26	Error: 	"Not Found" (404) at link https://zizone.netlify.app/img/bg-img/illustration.png (from https://zizone.netlify.app/css/style.css)
+11:57:26	Error: 	"Not Found" (404) at link https://zizone.netlify.app/img/bg-img/header-bg3.png (from https://zizone.netlify.app/css/style.css)
+11:57:26	Error: 	"Not Found" (404) at link https://zizone.netlify.app/img/bg-img/header-bg4.png (from https://zizone.netlify.app/css/style.css)
+11:57:26	Error: 	"Not Found" (404) at link https://zizone.netlify.app/img/bg-img/header-bg5.png (from https://zizone.netlify.app/css/style.css)
+11:57:26	Error: 	"Not Found" (404) at link https://zizone.netlify.app/css/video/video-frame.PNG (from https://zizone.netlify.app/css/style.css)
+11:57:26	Error: 	"Not Found" (404) at link https://zizone.netlify.app/img/svg/ai-illustration.svg (from https://zizone.netlify.app/css/style.css)
+11:57:26	Error: 	"Not Found" (404) at link https://zizone.netlify.app/img/svg/pdf.svg (from https://zizone.netlify.app/css/style.css)
+11:57:26	Error: 	"Not Found" (404) at link https://zizone.netlify.app/js/particles.js (from https://zizone.netlify.app/index-demo-1.html)
+11:57:26	Error: 	"Not Found" (404) at link https://zizone.netlify.app/js/app.js (from https://zizone.netlify.app/index-demo-1.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 55 seconds : 121 links scanned, 102 files written (6743701 bytes overall) [5019221 bytes received at 91258 bytes/sec], 2950794 bytes transferred using HTTP compression in 76 files, ratio 37%, 24.2 requests per connection
+(18 errors, 0 warnings, 0 messages)
